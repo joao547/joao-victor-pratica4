@@ -7,6 +7,6 @@ public class Library {
     public boolean someLibraryMethod() {
     	int a = 1;
     	int b = 4;
-        return a + b == 5;
+        return a + b == 4;
     }
 }
